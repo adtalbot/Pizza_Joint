@@ -8,7 +8,7 @@
 
 ## Synopsis
 
-Pizza Joint is a simple Ruby application built by [Audrie Talbot](https://github.com/adtalbot) with the ability to let users select the number, size, and toppings on their pizza. Crafted as part of the Spring 2015 Ruby course curriculum at [Epicodus](https://www.epicodus.com/).
+Pizza Joint is a simple JavaScript application built by [Audrie Talbot](https://github.com/adtalbot) with the ability to let users select the number, size, and toppings on their pizza. Crafted as part of the Spring 2015 Ruby course curriculum at [Epicodus](https://www.epicodus.com/).
 
 ## Motivation
 
