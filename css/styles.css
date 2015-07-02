@@ -1,0 +1,63 @@
+h1 {
+  text-align: center;
+  font-size:36px;
+  color:white;
+  font-family: 'Chewy', cursive;
+
+}
+
+h2 {
+  font-size:18px;
+  color:white;
+  align:left;
+  font-family: 'Chewy', cursive;
+
+}
+
+h3 {
+  font-size:18px;
+  color:white;
+}
+
+body {
+  background-color:grey;
+  padding-top:20px;
+  color:white;
+}
+
+.header {
+  background-color: red;
+  border-radius: 5px;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 0;
+}
+
+.create-account-section {
+  background-color: red;
+  border-radius: 5px;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left:25px;
+  margin-top:20px;
+  color:white;
+  font-size:12px;
+}
+
+.create-account-section {
+  margin: auto;
+  margin-top: 30px;
+
+
+}
+
+form {
+  margin-bottom: 10px;
+}
+
+input[type=radio]{
+  margin-left: 6px;
+}
